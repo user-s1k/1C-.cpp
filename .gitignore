@@ -1,0 +1,7 @@
+.vs/
+obj/
+*.user
+bin/
+ConsoleApplication5.vcxproj
+ConsoleApplication5.vcxproj.filters
+x64/
