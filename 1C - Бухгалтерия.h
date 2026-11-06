@@ -33,7 +33,7 @@ namespace onec_detail
 #define Ложь false
 #define Цикл {
 #define КонецЦикла }
-#define Процедура int
+#define Процедура void
 #define Сообщить(x) std::cout << x << '\n'
 #define Конец }
 #define Начало {
