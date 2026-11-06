@@ -1,4 +1,5 @@
-#include <iostream>
+﻿#include <iostream>
+#include <Windows.h>
 
 #define Если if
 #define Иначе else
@@ -25,3 +26,6 @@
 #define Строка std::string
 #define Булево bool
 #define Неопределено nullptr
+#define Главная main
+#define ВклРуссЯз1 SetConsoleOutputCP(65001);
+#define ВклРуссЯз2 SetConsoleCP(65001);
